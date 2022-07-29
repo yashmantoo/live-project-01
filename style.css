@@ -1,0 +1,136 @@
+body
+{
+    overflow: hidden;
+}
+.navbar-container
+{
+    position: relative;
+    left: 50px;
+    top: 15px;
+}
+.list
+{
+    position: relative;
+    top: -70px;
+    list-style-type: none;
+    display: inline-flex;
+    left: 200px;
+    margin: 20px;
+}
+li
+{
+    font-family: Orbitron;
+    font-weight: 700;
+    padding-left: 90px;
+}
+.search-icon
+{
+    position: relative;
+    left: 1100px;
+    top: -115px;
+}
+.nav-button
+{
+    font-family: poppins;
+    background-color: #fff;
+    position: relative;
+    left: 1150px;
+    top: -154px;
+    border-radius: 13px;
+    padding-top: 4px;
+    padding-bottom: 4px;
+    padding-left: 25px;
+    padding-right: 25px;
+}
+.hero-container
+{
+    transform: scale(0.7);
+    position: relative;
+    left: -150px;
+    top: -600px;
+}
+.square
+{
+    position: relative;
+    left: 210px;
+    top: 750px;
+    z-index: -1;
+}
+.globe
+{
+    position: relative;
+    left: 465px;
+    top: 20px;
+}
+.hero-container-right
+{
+    position: relative;
+    left: 740px;
+    font-size: 30px;
+    top: -600px;
+}
+.hero-heading
+{
+    transform: scale(1.4);
+    position: relative;
+    left: 340px;
+    font-family: Orbitron;
+    font-weight: 800;
+}
+.hero-description
+{
+    transform: scale(0.5);
+    margin-top: 30px;
+    position: relative;
+    left: -180px;
+    text-align: center;
+    font-family: poppins;
+    font-weight: 200;
+}
+.button-email
+{
+    position: relative;
+    left: 340px;
+    transform: scale(1.5);
+    background-color: #fff;
+    border-radius: 7px;
+    padding-left: 15px;
+    padding-right: 15px;
+    font-family: Orbitron;
+    font-weight: 300;
+
+}
+.button-join
+{
+    position: relative;
+    transform: scale(1);
+    left: 410px;   
+    transform: scale(1.5);
+    color: #fff;
+    background-color: black;
+    border-radius: 7px;
+    padding-left: 7px;
+    padding-right: 7px;
+    font-family: Orbitron;
+    font-weight: 300;
+}
+.contact-heading
+{
+    position: relative;
+    left: 380px;
+    top: 160px;
+    font-family: Poppins;
+    font-weight: 200;
+}
+.icons
+{
+    position: relative;
+    top: 120px;
+    left: 365px;
+}
+.star
+{
+    position: relative;
+    left: 1140px;
+    top: 80px;
+}
