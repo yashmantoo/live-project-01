@@ -14,11 +14,7 @@ In this project I have created a landing page from scratch. And I learned a lot 
 
 </br>
 
-### My Project is looking like :
-
-![Web Site Image](./assets/screencapture-street-style-landing-page-netlify-app-2022-07-31-19_48_54.png)
-
 ### You can Check it Live on Below Link :
 
-[Live Link !](https://street-style-landing-page.netlify.app/)
+[Live Link !]()
     
