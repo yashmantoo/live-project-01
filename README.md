@@ -16,5 +16,5 @@ In this project I have created a landing page from scratch. And I learned a lot 
 
 ### You can Check it Live on Below Link :
 
-[Live Link !]()
+[Live Link !](https://trending-landing-page.netlify.app/)
     
